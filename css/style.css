@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    border: solid;
+    width: 480px;
+    height: 220px;
+}
+section {
+    display: inline-block;
+}
+h2 {
+    font-size: 12px;
+    color: #888888;
+}
+
+#competence {
+    color: #cccccc;
+}
